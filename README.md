@@ -4,4 +4,4 @@ As first year university students, attending university lectures has been a frig
 
 The code for the Unity in C#. Contains the code for the AR, application and UI/UX. Also contains Python Backend. Original [Repo](https://github.com/HTN-heAR/Hack-The-North)
 
-[Devpost](https://devpost.com/software/hear-1pibsd)
+[<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />](https://devpost.com/software/hear-1pibsd)
